@@ -1,8 +1,8 @@
-# API-Gerador-de-CPF
-Uma API que irá retornar um número determinado de CPF's válidos.
+# API - Gerador de CPF
+A seguinte API foi desenvolvida com o propósito de gerar cadastros
+de CPF aleatórios - sendo todos estes "verdadeiros" de acordo com a
+lógica de validação. O número de cadastros que serão retornados deve ser
+definido na URL do site ao fim do endereço, após um símbolo de **'/'**. O
+site foi hospedado gratuitamente utilizando a plataforma *Replit*.
 
-A URL para a API é: https://Gerador-de-CPF.gabrielnunes49.repl.co
-
-Caso queira testar, basta adicionar uma "/" ao fim do link e indicar
-o número de CPF's que se deseja retornar. A hospedagem da API foi feita
-utilizando o Replit.
+**Link: *https://Gerador-de-CPF.gabrielnunes49.repl.co***
